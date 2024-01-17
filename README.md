@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Holub Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=holubroman&show_icons=true&theme=transparent)
 
 <!---
 holubroman/holubroman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
